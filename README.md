@@ -1,9 +1,9 @@
 # Homework_1_Data-Types
 Д/з: Data types
-* [Arithmetic mean](https://github.com/SlavikArt/Homework_1_Data-Types/blob/master/Arithmetic_mean/Arithmetic_Mean.cpp)
-* [Equation solution](https://github.com/SlavikArt/Homework_1_Data-Types/blob/master/Equation_Solution/Equation_Solution.cpp)
-* [Kilometers to miles](https://github.com/SlavikArt/Homework_1_Data-Types/blob/master/Kilometers_To_Miles/Kilometers_To_Miles.cpp)
-* [Square and length of circle](https://github.com/SlavikArt/Homework_1_Data-Types/blob/master/Square_And_Length_Of_Circle/Square_And_Length_Of_Circle.cpp)
+* [Arithmetic mean](Arithmetic_mean/Arithmetic_Mean.cpp)
+* [Equation solution](Equation_Solution/Equation_Solution.cpp)
+* [Kilometers to miles](Kilometers_To_Miles/Kilometers_To_Miles.cpp)
+* [Square and length of circle](Square_And_Length_Of_Circle/Square_And_Length_Of_Circle.cpp)
 <p align="center">
   <h2>Arithmetic mean</h2>
   <p>Среднее арифметическое</p>
